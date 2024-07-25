@@ -2,21 +2,24 @@
   text-align: center;
   background-color: #111827;
 }
-
-
-
-.home{
-  height: 700px;
-  padding-top: 8vh;
+.header{
   background-color: #111827;
 }
+
+.home{
+  /* height: 600px; */
+  height: 1050px;
+  background-color: #111827;
+  padding-top: 8vh;
+  /* background-color: #cbd6ee; */
+}
 .skills{
-  height: 600px;
+  /* height: 600px; */
   background-color: #111827;
   /* background-color: greenyellow; */
 }
 .project{
-  height: 600px;
+  /* height: 600px; */
   background-color: #111827;
   /* background-color: red; */
 }
@@ -29,6 +32,9 @@
   height: 600px;
   background-color: #111827;
   /* background-color: pink; */
+}
+h3{
+  color: #111827;
 }
 
 .link{
